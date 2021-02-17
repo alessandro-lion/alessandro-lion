@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alessandro-lion
-- 👀 I’m interested in Software Development, either Scripting and Object Oriented
-- 🌱 I’m currently learning Xamarin ...
-- 💞️ I’m looking to collaborate on C#, English to Italian translation, Database design and optimization especially for MS-SQL and My-SQL/MariaDB
+- 👀 I’m interested in Software Development, either Scripting and Object Oriented with a scent of linux/windows server OS tinkering
+- 🌱 I’m currently learning Xamarin and re-discovering PHP
+- 💞️ I’m looking to collaborate on coding with C# , English to Italian translations, database design and optimization especially for MS-SQL and My-SQL/MariaDB
 - 📫 How to reach me ... By email alessandro.lion @at outlook.com or trought my Linkedin profile
 
 <!---
